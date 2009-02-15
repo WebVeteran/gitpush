@@ -1,0 +1,7 @@
+1) Copy gitPush.app to your hard drive. /Applications/Utilities/ would be fitting.
+2) Drag your local copy of gitPush.app to your Finder toolbar and wait for the toolbar to make room for it. Drop it like it's hot.
+
+USAGE
+After making edits to your repo files you need to commit the changes. I recommend GitX for that.
+With the commits made, in Finder navigate to the root of your repo.
+Click the gitPush button in the Finder toolbar. The octocat will go chromatic while it's working. When it goes monochrome again its done.
