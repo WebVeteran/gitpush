@@ -1,3 +1,5 @@
+Version 1.1 Feb 17 2009
+
 gitPush is a small Mac app that will push all
 committed files in a local repo up to gitHub.
 
